@@ -1,0 +1,13 @@
+com\annguyendl\config\WebConfig.class
+com\annguyendl\service\DemoService.class
+com\annguyendl\modal\TodoItem.class
+com\annguyendl\controller\TodoItemController.class
+com\annguyendl\util\AttributeNames.class
+com\annguyendl\controller\DemoController.class
+com\annguyendl\modal\TodoData.class
+com\annguyendl\util\ViewNames.class
+com\annguyendl\service\TodoItemService.class
+com\annguyendl\service\TodoItemServiceImpl.class
+com\annguyendl\config\WebAppInitializer.class
+com\annguyendl\service\DemoServiceImpl.class
+com\annguyendl\util\Mapping.class
